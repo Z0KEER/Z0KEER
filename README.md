@@ -1,4 +1,5 @@
-## Hi there 👋
+## Buenas Compai 👋
+### Klk mi loko 
 
 <!--
 **Z0KEER/Z0KEER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
